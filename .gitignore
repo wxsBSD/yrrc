@@ -1,0 +1,6 @@
+hashes.json
+.vscode
+yrrc
+*.swp
+_cache
+yara_build

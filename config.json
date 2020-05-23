@@ -1,0 +1,14 @@
+{
+  "git_bin": "/usr/bin/git",
+  "git_repo_url": "https://github.com/virustotal/yara",
+  "git_tag": "master",
+  "build_dir": "yara_build",
+  "lib_dir": "libyara/.libs/",
+  "include_dir": "libyara/include/",
+  "rules_file": "rules/test.yara",
+  "vt_key": "/Users/wxs/.vt_key",
+  "cache_dir": "_cache",
+  "hashes_file": "hashes.json",
+  "results_file": "results.json",
+  "meta_key": "sample"
+}
